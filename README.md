@@ -25,7 +25,7 @@ Sono presenti commenti vari per rendere più chiare le istruzioni, ed in alcuni 
 
 
 <br/>  
-
+<!--
 ## Languages and Tools  
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
@@ -46,7 +46,7 @@ Sono presenti commenti vari per rendere più chiare le istruzioni, ed in alcuni 
 <a href="https://cassandra.apache.org/_/index.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_cassandra-icon.svg" alt="Cassandra" height="25" /></a>  
 <a href="https://mariadb.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="25" /></a>  
 </div>  
-
+-->
 <br/>  
 
 ## Github Stats  
