@@ -16,7 +16,7 @@ Sono presenti commenti vari per rendere più chiare le istruzioni, ed in alcuni 
 - Java ver. 17
 - Build System: **Maven**
 - Framework: Spring Web
-- alcune librerie: Auth0 JWT (Json Web Token) - CircuitBreaker (Resilience4j) Libreria di tolleranza ai guasti
+- alcune librerie: **Auth0 JWT** (Json Web Token) - **CircuitBreaker** (Resilience4j) Libreria di tolleranza ai guasti
 
 ### [Video Noleggi](https://github.com/CiccioFr/videoNoleggi) - Applicazione Backend (monolitica)
 Applicazione per la gestione di una catena di Video Noleggo (affitto e restituzione di film)
