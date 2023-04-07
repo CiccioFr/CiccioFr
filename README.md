@@ -1,28 +1,40 @@
-## 👋 Benvenuta/o sul mio repository
+# 👋 Benvenuta/o sul mio repository
 
-### Il portfolio
+## Il portfolio
 Ho sviluppato alcune applicazioni, sia durante la frequenza di corsi professionalizanti, sia nel tempo libero per diletto.  
 Li ho resi disponibili sia per mostrare ad aziende cià che sono in grado di affrontare,  
 sia per chi ha poca dimistichezza con lingiaggi/framework da me trattati ed abbia voglia di prendere spunto per propri approfondimenti.  
 Sono presenti commenti vari per rendere più chiare le istruzioni, ed in alcuni punti anche delle spiegazioni.
 
-### I progetti più interessanti:
-- Applicazione monolitica di un Blog con Sping Web ed autenticazione dell'utente con JWT
-   -> [https://github.com/CiccioFr/myblog](https://github.com/CiccioFr/myblog/blob/master/ReadMe.md)
+## I progetti più interessanti:
+### [myBlog](https://github.com/CiccioFr/myblog/blob/master/ReadMe.md) - Applicazione Backend (monolitica) di un Blog
+- Java ver. 17
+- Build System: **Maven**
+- Framework: Spring Web
 
-- Applicazione con architettura Multiservizi di un Blog con Sping Web, implementa varie librerie
-   -> https://github.com/CiccioFr/MicroServizi
+### [myBlog MicroServizi](https://github.com/CiccioFr/MicroServizi) - Applicazione Backend (con architettura a MicroServizi) di un Blog
+- Java ver. 17
+- Build System: **Maven**
+- Framework: Spring Web
+- implementa varie librerie
 
-- Applicazione con Sping Web
-   -> https://github.com/CiccioFr/videoNoleggi
+### [Video Noleggi](https://github.com/CiccioFr/videoNoleggi) - Applicazione Backend (monolitica)
+Applicazione per la gestione di una catena di Video Noleggo (affitto e restituzione di film)
+- Java ver. 17
+- Build System: **Maven**
+- Framework: Spring Web
 
-- Applicazione con Sping Web
-   -> https://github.com/CiccioFr/MostraCanina_JavaSpring
+### [Mostra Canina](https://github.com/CiccioFr/MostraCanina_JavaSpring) - Applicazione Backend (monolitica)
+Applicazione di ausilio di mostre canine per la votazioni di cani partecipandi a concorsi
+- Java ver. 17
+- Build System: **Maven**
+- Framework: Spring Web
 
-- Aplicazione personale con lettura/scrittura su file e grafica semplice con Swing
-   -> https://github.com/CiccioFr/ColloquioDiLavoro
-
-
+### [Colloquio di lavoro](https://github.com/CiccioFr/ColloquioDiLavoro)
+- Applicazione desktop, che pone domande inerenti un linguaggio di programmazione, con lettura/scrittura su file
+- Java ver. 17
+- Build System: **Ant**
+- libreria Swing
 
 <br/>  
 <!--
