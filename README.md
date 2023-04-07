@@ -1,4 +1,27 @@
-## 👋 Benvenuta/o nel mio portfolio
+## 👋 Benvenuta/o sul mio repository
+
+### Il portfolio
+Ho sviluppato alcune applicazioni, sia durante la frequenza di corsi professionalizanti, sia nel tempo libero per diletto.
+Li ho resi disponibili sia per mostrare ad aziende cià che sono in grado di affrontare,
+sia per chi ha poca dimistichezza con lingiaggi/framework da me trattati ed abbia voglia di prendere spunto per propri approfondimenti.
+Per chi è poco avvezzo ho inserito alcuni commenti per rendere più chiare le istruzioni
+
+### I progetti più interessanti:
+- Applicazione monolitica di un Blog con Sping Web ed autenticazione dell'utente con JWT
+   -> https://github.com/CiccioFr/myblog
+
+- Applicazione con architettura Multiservizi di un Blog con Sping Web, implementa varie librerie
+   -> https://github.com/CiccioFr/MicroServizi
+
+- Applicazione con Sping Web
+   -> https://github.com/CiccioFr/videoNoleggi
+
+- Applicazione con Sping Web
+   -> https://github.com/CiccioFr/MostraCanina_JavaSpring
+
+- Aplicazione personale con lettura/scrittura su file e grafica semplice con Swing
+   -> https://github.com/CiccioFr/ColloquioDiLavoro
+
 
 
 <br/>  
