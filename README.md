@@ -1,10 +1,10 @@
 ## 👋 Benvenuta/o sul mio repository
 
 ### Il portfolio
-Ho sviluppato alcune applicazioni, sia durante la frequenza di corsi professionalizanti, sia nel tempo libero per diletto.
-Li ho resi disponibili sia per mostrare ad aziende cià che sono in grado di affrontare,
-sia per chi ha poca dimistichezza con lingiaggi/framework da me trattati ed abbia voglia di prendere spunto per propri approfondimenti.
-Per chi è poco avvezzo ho inserito alcuni commenti per rendere più chiare le istruzioni
+Ho sviluppato alcune applicazioni, sia durante la frequenza di corsi professionalizanti, sia nel tempo libero per diletto.  
+Li ho resi disponibili sia per mostrare ad aziende cià che sono in grado di affrontare,  
+sia per chi ha poca dimistichezza con lingiaggi/framework da me trattati ed abbia voglia di prendere spunto per propri approfondimenti.  
+Per chi è poco avvezzo ho inserito alcuni commenti per rendere più chiare le istruzioni.
 
 ### I progetti più interessanti:
 - Applicazione monolitica di un Blog con Sping Web ed autenticazione dell'utente con JWT
