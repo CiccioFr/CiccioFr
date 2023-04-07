@@ -7,10 +7,11 @@ sia per chi ha poca dimistichezza con lingiaggi/framework da me trattati ed abbi
 Sono presenti commenti vari per rendere più chiare le istruzioni, ed in alcuni punti anche delle spiegazioni.
 
 ## I progetti più interessanti:
-### [myBlog](https://github.com/CiccioFr/myblog/blob/master/ReadMe.md) - Applicazione Backend (monolitica) di un Blog
+### [myBlog](https://github.com/CiccioFr/myblog/blob) - Applicazione Backend (monolitica) di un Blog
 - Java ver. 17
 - Build System: **Maven**
 - Framework: Spring Web
+vai al file ➡️ [ReadMe](https://github.com/CiccioFr/myblog/blob/master/ReadMe.md) ⬅️ per tutti di dettagli
 
 ### [myBlog MicroServizi](https://github.com/CiccioFr/MicroServizi) - Applicazione Backend (con architettura a MicroServizi) di un Blog
 - Java ver. 17
