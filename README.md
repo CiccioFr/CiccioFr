@@ -7,6 +7,7 @@ sia per chi ha poca dimistichezza con lingiaggi/framework da me trattati ed abbi
 Sono presenti commenti vari per rendere più chiare le istruzioni, ed in alcuni punti anche delle spiegazioni.
 
 ## I progetti più interessanti:
+
 ### [myBlog](https://github.com/CiccioFr/myblog) - Applicazione Backend (monolitica) di un Blog
 - Java ver. 17
 - Build System: **Maven**
@@ -14,11 +15,15 @@ Sono presenti commenti vari per rendere più chiare le istruzioni, ed in alcuni 
 
 vai al file ➡️ [ReadMe](https://github.com/CiccioFr/myblog/blob/master/ReadMe.md) ⬅️ per tutti di dettagli
 
+
 ### [myBlog MicroServizi](https://github.com/CiccioFr/MicroServizi) - Applicazione Backend (con architettura a MicroServizi) di un Blog
 - Java ver. 17
 - Build System: **Maven**
 - Framework: Spring Web
 - alcune librerie: **Auth0 JWT** (Json Web Token) - **CircuitBreaker** (Resilience4j) Libreria di tolleranza ai guasti
+
+vai al file ➡️ [ReadMe](https://github.com/CiccioFr/MicroServizi/blob/master/ReadMe.md) ⬅️ per tutti di dettagli
+
 
 ### [Video Noleggi](https://github.com/CiccioFr/videoNoleggi) - Applicazione Backend (monolitica)
 Applicazione per la gestione di una catena di Video Noleggo (affitto e restituzione di film)
@@ -26,11 +31,17 @@ Applicazione per la gestione di una catena di Video Noleggo (affitto e restituzi
 - Build System: **Maven**
 - Framework: Spring Web
 
+vai al file ➡️ [ReadMe](https://github.com/CiccioFr/videoNoleggi/blob/main/ReadMe.md) ⬅️ per tutti di dettagli
+
+
 ### [Mostra Canina](https://github.com/CiccioFr/MostraCanina_JavaSpring) - Applicazione Backend (monolitica)
 Applicazione di ausilio di mostre canine per la votazioni di cani partecipandi a concorsi
 - Java ver. 17
 - Build System: **Maven**
 - Framework: Spring Web
+
+vai al file ➡️ [ReadMe](https://github.com/CiccioFr/MostraCanina_JavaSpring/blob/master/ReadMe.md) ⬅️ per tutti di dettagli
+
 
 ### [Colloquio di lavoro](https://github.com/CiccioFr/ColloquioDiLavoro)
 - Applicazione desktop, che pone domande inerenti un linguaggio di programmazione, con lettura/scrittura su file
@@ -38,7 +49,11 @@ Applicazione di ausilio di mostre canine per la votazioni di cani partecipandi a
 - Build System: **Ant**
 - libreria Swing
 
+vai al file ➡️ [ReadMe](https://github.com/CiccioFr/ColloquioDiLavoro/blob/master/ReadMe.md) ⬅️ per tutti di dettagli
+
+
 <br/>  
+
 <!--
 ## Languages and Tools  
 <div align="center">  
