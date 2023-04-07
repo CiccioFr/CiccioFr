@@ -1,5 +1,7 @@
 ## 👋 Benvenuta/o 
-## hh
+### Il mio portfolio è suddiviso in due sessioni
+
+
 <br/>  
 
 ## Languages and Tools  
