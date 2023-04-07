@@ -7,7 +7,7 @@ sia per chi ha poca dimistichezza con lingiaggi/framework da me trattati ed abbi
 Sono presenti commenti vari per rendere più chiare le istruzioni, ed in alcuni punti anche delle spiegazioni.
 
 ## I progetti più interessanti:
-### [myBlog](https://github.com/CiccioFr/myblog/blob) - Applicazione Backend (monolitica) di un Blog
+### [myBlog](https://github.com/CiccioFr/myblog) - Applicazione Backend (monolitica) di un Blog
 - Java ver. 17
 - Build System: **Maven**
 - Framework: Spring Web
