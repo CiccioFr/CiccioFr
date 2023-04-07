@@ -10,7 +10,8 @@ Sono presenti commenti vari per rendere più chiare le istruzioni, ed in alcuni 
 ### [myBlog](https://github.com/CiccioFr/myblog) - Applicazione Backend (monolitica) di un Blog
 - Java ver. 17
 - Build System: **Maven**
-- Framework: Spring Web  
+- Framework: Spring Web
+
 vai al file ➡️ [ReadMe](https://github.com/CiccioFr/myblog/blob/master/ReadMe.md) ⬅️ per tutti di dettagli
 
 ### [myBlog MicroServizi](https://github.com/CiccioFr/MicroServizi) - Applicazione Backend (con architettura a MicroServizi) di un Blog
