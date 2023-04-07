@@ -1,5 +1,4 @@
-## 👋 Benvenuta/o 
-### Il mio portfolio è suddiviso in due sessioni
+## 👋 Benvenuta/o nel mio portfolio
 
 
 <br/>  
