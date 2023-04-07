@@ -8,7 +8,7 @@ Per chi è poco avvezzo ho inserito alcuni commenti per rendere più chiare le i
 
 ### I progetti più interessanti:
 - Applicazione monolitica di un Blog con Sping Web ed autenticazione dell'utente con JWT
-   -> https://github.com/CiccioFr/myblog
+   -> [https://github.com/CiccioFr/myblog](https://github.com/CiccioFr/myblog/blob/master/ReadMe.md)
 
 - Applicazione con architettura Multiservizi di un Blog con Sping Web, implementa varie librerie
    -> https://github.com/CiccioFr/MicroServizi
