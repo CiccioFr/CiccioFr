@@ -90,7 +90,7 @@ vai al file ➡️ [ReadMe](https://github.com/CiccioFr/ColloquioDiLavoro/blob/m
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="57%">
+<table><tr><td valign="top" width="56%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=cicciofr&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
