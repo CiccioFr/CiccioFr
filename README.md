@@ -105,6 +105,18 @@ vai al file ➡️ [ReadMe](https://github.com/CiccioFr/ColloquioDiLavoro/blob/m
 
 <br/>  
 
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=emanuel-epifani&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuel-epifani&hide_border=true&layout=compact" align="right" style="width: 100%" /></div>
+
+</td></tr></table>
+<br />
+
+
 ## Connect with me  
 <a href="https://www.linkedin.com/in/francesco-ribatti/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" /> </a>
